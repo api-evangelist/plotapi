@@ -18,6 +18,17 @@ tags:
 - MOT
 - Auto Parts
 - Vehicle Valuation
+- Real-Estate
+- Property Data
+- United Kingdom
+- United States
+tags_raw:
+- Automotive
+- Vehicle Data
+- VIN
+- MOT
+- Auto Parts
+- Vehicle Valuation
 - Real Estate
 - Property Data
 - United Kingdom
@@ -31,6 +42,10 @@ apis:
   humanURL: https://plotapi.co/dashboard/docs
   baseURL: https://plotapi.co
   tags:
+  - Automotive
+  - Vehicle Data
+  - Real-Estate
+  tags_raw:
   - Automotive
   - Vehicle Data
   - Real Estate
