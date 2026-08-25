@@ -1,0 +1,14 @@
+{
+  "repo": "plotapi",
+  "feeds": [
+    {
+      "source": "https://plotapi.co/dashboard",
+      "feed_url": "https://plotapi.co/dashboard",
+      "title": "",
+      "saved": 0,
+      "method": "none"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-08-22T20:20:02Z"
+}
