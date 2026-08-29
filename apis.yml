@@ -8,6 +8,17 @@ description: Automotive and property data API. The published surface covers US V
   all sit behind an account sign-in, and the machine-readable artifacts the site advertises are not currently
   served.
 url: https://raw.githubusercontent.com/api-evangelist/plotapi/refs/heads/main/apis.yml
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 created: '2026-08-19'
 modified: '2026-08-19'
 specificationVersion: '0.23'
