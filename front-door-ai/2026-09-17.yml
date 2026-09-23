@@ -1,0 +1,31 @@
+# Front Door AI Index — plotapi — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: plotapi
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: plotapi.co
+  final_host: plotapi.co
+  ownership: own
+  owner: plotapi
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 11
+  host_score: 11
+  density: 16.9
+  words: 651
+  tiers:
+    agentic: 4
+    core: 4
+    model: 3
+  ambiguous: 4
+  top_terms:
+    AI: 4
+    agent: 4
+    AI agent: 2
+    Claude: 2
+    MCP: 1
+    OpenAI: 1
+    model context protocol: 1
