@@ -29,7 +29,7 @@ tags:
 - MOT
 - Auto Parts
 - Vehicle Valuation
-- Real-Estate
+- Real Estate
 - Property Data
 - United Kingdom
 - United States
@@ -44,6 +44,7 @@ tags_raw:
 - Property Data
 - United Kingdom
 - United States
+- Real-Estate
 apis:
 - aid: plotapi:plotapi-rest-api
   name: PlotAPI REST API
@@ -51,15 +52,15 @@ apis:
     valuations and property listings. Operations could not be enumerated: the API reference is behind
     a sign-in and no machine-readable contract is served.'
   humanURL: https://plotapi.co/dashboard/docs
-  baseURL: https://plotapi.co
   tags:
   - Automotive
   - Vehicle Data
-  - Real-Estate
+  - Real Estate
   tags_raw:
   - Automotive
   - Vehicle Data
   - Real Estate
+  - Real-Estate
   properties:
   - type: Documentation
     url: https://plotapi.co/dashboard/docs
